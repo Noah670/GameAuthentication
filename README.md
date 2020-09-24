@@ -1,4 +1,4 @@
-# GameAuth
+# GameAuth REST API
 
 How to start the GameAuth application
 ---
